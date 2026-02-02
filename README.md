@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Morgan, and I am a student at the University of Nottingham studying a masters in Computer Science (Machine Learning). I am interested in Machine learning and data science!
+My name is Morgan, and I am a post-graduate student currently studying a masters in Computer Science (Artificial Intelligence) at the University of Nottingham. I am interested in Machine learning and data science! I graduated with a first class honours degree in Business and Management at the University of Leicester.
 
 - 🔭 I’m currently working on understanding intelligence through building systems. In this instance, I am building an agent which reacts to its environment (INSERT URL)
   
