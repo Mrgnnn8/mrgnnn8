@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Morgan, and I am a student at the University of Nottingham studying a masters in Computer Science (Machine Learning). I am interested in Machine learning and data science!
+
+- 🔭 I’m currently working on understanding intelligence through building systems. In this instance, I am building an agent which reacts to its environment (INSERT URL)
+  
+- 🌱 I’m currently learning concepts surrounding Computer Vision, Designing intelligent agents and preparing for my dissertation.
+  
+- 👯 I’m looking to begin my employment in a graduate tech role (Software Engineering, Machine learning or consultancy) in Sepmtember 2026 (https://www.linkedin.com/in/morganjones082004/)
+
 <!--
 **Mrgnnn8/mrgnnn8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
