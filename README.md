@@ -1,4 +1,4 @@
-## Welcome to my profile!
+## Welcome! 
 
 My name is Morgan, and I am a post-graduate student currently studying a masters in Computer Science (Artificial Intelligence) at the University of Nottingham. I am interested in Machine learning and data science! I graduated with a first class honours degree in Business and Management at the University of Leicester. I also have technical work experience through my internship at Virgin Active, where I developed an information repository and used NLP to label and sort large quantities of documentation accurately. 
 
@@ -6,7 +6,7 @@ My name is Morgan, and I am a post-graduate student currently studying a masters
   
 - 🌱 I’m currently learning concepts surrounding Computer Vision, Designing intelligent agents and preparing for my dissertation.
   
-- 👯 I’m looking to begin my professional career in a graduate tech role (Software Engineering, Machine learning or consultancy) in Sepmtember 2026 (https://www.linkedin.com/in/morganjones082004/).
+- 🤖 I’m looking to begin my professional career in a graduate tech role (Software Engineering, Machine learning or consultancy) in Sepmtember 2026 (https://www.linkedin.com/in/morganjones082004/).
 
 <!--
 **Mrgnnn8/mrgnnn8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
