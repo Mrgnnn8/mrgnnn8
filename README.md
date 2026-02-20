@@ -1,10 +1,10 @@
 ## Welcome to my professional portfolio 
 
-My name is Morgan, and I am a post-graduate student currently studying a masters in Computer Science (Artificial Intelligence) at the University of Nottingham. I am interested in Machine learning and data science! I graduated with a first class honours degree in Business and Management at the University of Leicester. I also have technical work experience through my internship at Virgin Active, where I developed an information repository and used NLP to label and sort large quantities of documentation accurately. 
+My name is Morgan, and I am a post-graduate student currently studying a masters in Computer Science (Artificial Intelligence) at the University of Nottingham. I am interested in Machine learning and data science! I graduated with a first class honours in Business and Management at the University of Leicester. I also have technical work experience through my internship at Virgin Active, where I developed an information repository and used NLP to label and sort large quantities of documentation accurately. 
 
-- 🔭 I’m currently working on understanding intelligence through building systems. In this instance, I am building an agent which reacts to its environment (INSERT URL)
+- 🔭 I’m currently working on understanding how agents with LLM interaction capabilities interact with each other, given specific instructions. The aim is to see whether the agents reason, negotiate, or reach deadlock. This will be measure through a series of experiments.
   
-- 🌱 I’m currently learning concepts surrounding Computer Vision, Designing intelligent agents and preparing for my dissertation.
+- 🌱 I’m currently learning concepts surrounding Computer Vision, Designing intelligent agents and preparing for my dissertation. Current areas of interest for my dissertation include data dropout for improve large model training efficiency and the applications of ML for dementia studies.
   
 - 🤖 I’m looking to begin my professional career in a graduate tech role (Software Engineering, Machine learning or consultancy) in Sepmtember 2026 (https://www.linkedin.com/in/morganjones082004/).
 
