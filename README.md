@@ -1,6 +1,6 @@
 ## Welcome to my professional portfolio 
 
-My name is Morgan, and I am a post-graduate student currently studying a masters in Computer Science (Artificial Intelligence) at the University of Nottingham. I am interested in Machine learning and data science! I graduated with a first class honours in Business and Management at the University of Leicester. I also have technical work experience through my internship at Virgin Active, where I developed an information repository and used NLP to label and sort large quantities of documentation accurately. 
+I am a post-graduate student currently studying a masters in Computer Science (Artificial Intelligence) at the University of Nottingham. I am interested in Machine learning and data science! I graduated with a first class honours in Business and Management at the University of Leicester. I also have technical work experience through my Machine Learning and Visualisation Internship at MatAlytics, where I am currently developing a time-series model for material predictions. I also have experience from my IT internship at Virgin Active, where I developed an information repository and used NLP to label and sort large quantities of documentation accurately. 
 
 - 🔭 I’m currently working on understanding how LLM agents learn to decision make and reason when resources are constrained. This is done through a "Where am I?" country guessing game https://github.com/Mrgnnn8/LLM_Agent
   
