@@ -1,12 +1,24 @@
-## Welcome to my professional portfolio 
+## Welcome to my GitHub
 
-I am a post-graduate student currently studying a masters in Computer Science (Artificial Intelligence) at the University of Nottingham. I am interested in Machine learning and data science! I graduated with a first class honours in Business and Management at the University of Leicester. I also have technical work experience through my Machine Learning and Visualisation Internship at MatAlytics, where I am currently developing a time-series model for material predictions. I also have experience from my IT internship at Virgin Active, where I developed an information repository and used NLP to label and sort large quantities of documentation accurately. 
+I am a Machine Learning Engineer at **MatAlytics**, where I work on physics-informed machine learning, agentic AI systems and optimisation. Working within a startup allows me to contribute across both technical and commercial areas, combining my engineering experience with a broader understanding of how the company operates and grows.
 
-- 🔭 I’m currently working on understanding how LLM agents learn to decision make and reason when resources are constrained. This is done through a "Where am I?" country guessing game https://github.com/Mrgnnn8/comp4105-coursework
-  
-- 🌱 I’m currently learning concepts surrounding Computer Vision, Designing intelligent agents and preparing for my dissertation. Current areas of interest for my dissertation include data dropout for improve large model training efficiency and the applications of ML for dementia studies.
-  
-- 🤖 I’m looking to begin my professional career in a graduate tech role (Software Engineering, Machine learning or consultancy) in Sepmtember 2026 (https://www.linkedin.com/in/morganjones082004/).
+Alongside my role, I am completing an MSc in Computer Science (Artificial Intelligence) at the **University of Nottingham**, where I am currently on track for a Distinction. My dissertation focuses on improving the efficiency of training large deep learning models through data-pruning techniques.
+
+I also hold a **First-Class Honours degree in Business and Management** from the University of Leicester, giving me a combination of technical, analytical and commercial experience.
+
+## Featured Projects
+
+* 🔭 **LLM Agents and Information-Theoretic Optimality**
+  I investigated whether an LLM-based agent operates at the information-theoretic optimum, exploring a research area with significant implications for agent decision-making and efficiency. There is considerable scope for further work in this area. [View the project](https://github.com/Mrgnnn8/comp4105-coursework)
+
+* 🌱 **MSc Dissertation — Efficient Deep Learning Through Data Pruning**
+  My ongoing dissertation builds on existing data-pruning research for improving the efficiency of deep learning training. Extending the work of Progressive Data Dropout, I am investigating why its schedule-matched random dropout strategy outperformed its proposed difficulty-based pruning method, with the aim of informing more effective future pruning approaches.
+
+## Contact
+
+* 📧 [morganoliverjones@gmail.com](mailto:morganoliverjones@gmail.com)
+* 🤝 [LinkedIn](https://www.linkedin.com/in/morganjones082004/)
+
 
 <!--
 **Mrgnnn8/mrgnnn8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
