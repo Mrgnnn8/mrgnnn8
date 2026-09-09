@@ -12,7 +12,7 @@ I also hold a **First-Class Honours degree in Business and Management** from the
   I investigated whether an LLM-based agent operates at the information-theoretic optimum, exploring a research area with significant implications for agent decision-making and efficiency. There is considerable scope for further work in this area. [View the project](https://github.com/Mrgnnn8/comp4105-coursework)
 
 * 🌱 **MSc Dissertation — Efficient Deep Learning Through Data Pruning**
-  My ongoing dissertation builds on existing data-pruning research for improving the efficiency of deep learning training. Extending the work of Progressive Data Dropout, I am investigating why its schedule-matched random dropout strategy outperformed its proposed difficulty-based pruning method, with the aim of informing more effective future pruning approaches.
+  My ongoing dissertation builds on existing data-pruning research for improving the efficiency of deep learning training. Extending the work of Progressive Data Dropout, I am investigating why its schedule-matched random dropout strategy outperformed its proposed difficulty-based pruning method, with the aim of informing more effective future pruning approaches. [View the project](https://github.com/Mrgnnn8/20750181_COMP4031.git)
 
 ## Contact
 
