@@ -16,8 +16,9 @@ I also hold a **First-Class Honours degree in Business and Management** from the
 
 ## Contact
 
-* 📧 [morganoliverjones@gmail.com](mailto:morganoliverjones@gmail.com)
-* 🤝 [LinkedIn](https://www.linkedin.com/in/morganjones082004/)
+* Personal: [morganoliverjones@gmail.com](mailto:morganoliverjones@gmail.com)
+* Work: [morgan.jones@matalytics.com](mailto:morgan.jones@matalytics.com)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/morganjones082004/)
 
 
 <!--
